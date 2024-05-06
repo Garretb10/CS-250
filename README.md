@@ -1,5 +1,5 @@
 # CS250-Project
-CS 250 Github Project
+CS 250 Agile Presentation
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
